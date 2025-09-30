@@ -10,7 +10,7 @@ A fun WhatsApp bot with entertainment commands built using WhatsApp Business API
 - Trivia questions
 
 ## Setup
-1. Clone repository
+1. Clone repository `git clone https://github.com/BBoyLK1/Whatsapp-FunBot.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Set up environment variables in `.env`
 4. Run: `python run.py`
